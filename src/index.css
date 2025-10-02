@@ -1,0 +1,18 @@
+:root{
+    font-family: "Work Sans", sans-serif;
+    font-size: 16px;
+}
+
+body{
+    background-image: url("./assets/images/background-pattern-mobile.svg");
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
