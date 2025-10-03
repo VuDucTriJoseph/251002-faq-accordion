@@ -63,7 +63,7 @@ p{
     color: hsl(292, 16%, 49%);
 }
 
-@media (min-width:378px){
+@media (min-width:376px){
     body{
         background-image: url("./assets/images/background-pattern-desktop.svg");
     }
